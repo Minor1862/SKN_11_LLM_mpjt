@@ -31,6 +31,10 @@ EEVE-Korean LLM 모델을 통해 생성된 대화 내용을 바탕으로,
 
 ---
 
-## 📋 프로젝트 구조
+## 🎮 구동 모습
+
+![KakaoTalk_20250423_172513635](https://github.com/user-attachments/assets/df68f68f-67d4-4621-bf6a-1aa78a9843ab)
+![KakaoTalk_20250424_150716292](https://github.com/user-attachments/assets/102f7b9f-48fd-498c-8a15-e41c2115f43e)
+
 
 
